@@ -1,8 +1,7 @@
 {
 	"name": "react-practice",
 	"version": "1.0.0",
-	"main": "src/index.tsx",
-	"repository": "https://github.com/chmini/react-practice.git",
+	"repository": "https://github.com/chmini/react-config.git",
 	"author": "chmini",
 	"license": "MIT",
 	"scripts": {
