@@ -21,7 +21,7 @@ const config: WebpackConfig = {
 			'@contexts': path.resolve(__dirname, 'src/contexts'),
 			'@hooks': path.resolve(__dirname, 'src/hooks'),
 			'@pages': path.resolve(__dirname, 'src/pages'),
-			'@utils': path.resolve(__dirname, 'utils'),
+			'@utils': path.resolve(__dirname, 'src/utils'),
 		},
 	},
 	output: {
