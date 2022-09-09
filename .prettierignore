@@ -1,6 +1,1 @@
-dist
-.eslintrc
-.prettierrc
-.gitignore
-
-**/*.json
+tsconfig.json
